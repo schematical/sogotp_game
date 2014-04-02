@@ -155,3 +155,9 @@ If you opted to use your talent loose 10% of your customers.
 ###User feedback group:
 +X Custoemrs
 If you, one of your cofounders, or one of your mentors is a marketer get an additional +X customers
+
+
+##Super Advanced Rules:
+Experemental crazy rules, try at your own risk
+###Consulting:
+If another player needs the talents your player has they may barter with you. They will have the skill set they need to preform the task but you may not role this turn. As for what to barter: That is up to you, be creative. If drinking beer while playing this game I suggest you barter for who buys the next round.
