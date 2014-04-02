@@ -9,6 +9,8 @@ To hone your idea and be the first to aquire your first 1000 customers.
 ###How it is played:
 The player rolls the dice to determine how many square they move forward. The players path is a linnear path that has 3 loops. Where the path and the loop intersect is called the **Ship or...** square. When you pass the **Ship or...** square depending on the number of customers you have aquired you can move ahead. 
 
+###About the Author:
+[Matt Lea](http://shiporgetoffthepot.com/build-measure-learn-the-board-game/)
 
 ###Stages:
 ####Idea Stage:
