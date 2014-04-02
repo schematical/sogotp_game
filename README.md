@@ -59,10 +59,8 @@ You spend 3 months on a long drawn out busines plan.
 * Scale Phase: +10 * (role the dice) Customers
 * 
 ####Create a prototype:
-* Idea phase: 
-* Experiment Phase:
-* Scale Phase: 
-
+* If you hired a developer roll again
+* If you are a developer skip the next roll
 
 + X Customers every time you pass **Ship or...**
 
@@ -71,9 +69,13 @@ You spend 3 months on a long drawn out busines plan.
 * Experiment Phase: Lose 50% of your customers start at 0
 * Scale Phase: You get a pat on the back
 
-+ X Customers every time you pass **Ship or...**
++ X x 2 Customers every time you pass **Ship or...**
 #####Mentor: TV Mogul
+Their marketing savy will guide you to more customers
 
+#####Mentor: Drill Sargent
+Their knowladge of process will make hiring and scaling a team a bit easier
+Ignore any bad side effects from hiring.
 
 
 #####Mentor: (//TODO: Bad mentor)
