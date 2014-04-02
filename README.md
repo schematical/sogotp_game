@@ -11,7 +11,12 @@ The player rolls the dice to determine how many square they move forward. The pl
 
 
 ###Stages:
-
+####Idea Stage:
+When you have an idea scribbled on a napkin and are trying to figure out what todo next
+####Expirment Stage:
+You have picked up a copy of the Lean Startup and are starting to build your first expirements
+####Scale Stage:
+You have your first 100 customers and are trying to figure out how to scale the business
 
 Requirements to move on:
 * Idea Stage: Customers > 10
