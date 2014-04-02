@@ -9,10 +9,14 @@ To hone your idea and be the first to aquire your first 1000 customers.
 ###How it is played:
 The player rolls the dice to determine how many square they move forward. The players path is a linnear path that has 3 loops. Where the path and the loop intersect is called the **Ship or...** square. When you pass the **Ship or...** square depending on the number of customers you have aquired you can move ahead. 
 
-Each loop has three phases:
-* Build
-* Measure
-* Learn
+
+###Stages:
+
+
+Requirements to move on:
+* Idea Stage: Customers > 10
+* Expirement Stage:  Customers > 100
+* Scale Stage:  Customers > 1000
 
 ###Customer Tokens:
 Customer tokens are the score keeper here. You keep track of them with the following markers:
