@@ -25,6 +25,7 @@ You can not go below zero with your customers.
 
 ###Players:
 ####The Visionary:
+Lots of charisma but no technical skills
 
 ####The Developer:
 
@@ -51,7 +52,26 @@ You spend 3 months on a long drawn out busines plan.
 #####Join a coworking space:
 +X customers every time you 'pass go'
 
+####Set up a payment gateway:
 
+* Idea phase: -50% customers
+* Expirement Phase: Lose a turn
+* Scale Phase: +10 * (role the dice) Customers
+* 
+####Create a prototype:
+* Idea phase: 
+* Experiment Phase:
+* Scale Phase: 
+
+
++ X Customers every time you pass **Ship or...**
+
+####Create a finished product:
+* Idea Phase: Lose all customers, start at 0
+* Experiment Phase: Lose 50% of your customers start at 0
+* Scale Phase: You get a pat on the back
+
++ X Customers every time you pass **Ship or...**
 #####Mentor: TV Mogul
 
 
@@ -84,8 +104,7 @@ Roll
 * Expirement Phase: Lose a turn
 * Scale Phase: +10 * (role the dice) Customers
 
-####Get some press:
-If you have the website
+
 
 ###Expirement Phase:
 
@@ -93,13 +112,16 @@ If you have the website
 You now have a better idea what your niche is
 +X customers every time you 'pass go'
 
-####Set up a payment gateway:
-
-* Idea phase: -50% customers
-* Expirement Phase: Lose a turn
-* Scale Phase: +10 * (role the dice) Customers
 
 
+####Get some press:
+If you have the website + X Customers
+If you are the marketer + X Customers
+If you have the TV Mogul Mentor Card + X Customers
+Otherwise: You mother sends a link to all of you aunts and uncles... Awe...
+
+
+###Scale Phase:
 
 
 ###Passing the 'Ship or' square
