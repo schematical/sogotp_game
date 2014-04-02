@@ -78,11 +78,20 @@ Their knowladge of process will make hiring and scaling a team a bit easier
 Ignore any bad side effects from hiring.
 
 
-#####Mentor: (//TODO: Bad mentor)
+#####Mentor: The coat tail rider
+(This is a bad mentor to have but you dont know any better yet. Good luck)
 
 
 
+####Cofounder: Visonary
 
+####Cofounder: Designer
+
+####Cofounder: Developer
+
+####Cofounder: Marketer
+
+####Cofounder: The slacker
 
 
 ###Milestones:
@@ -117,6 +126,16 @@ You now have a better idea what your niche is
 
 
 ####Get some press:
+Roll the dice:
+
+1. -X Customers
+2. -X Customers
+3. Nothing
+4. Nothing
+5. +X Customers
+6. +X Customers
+
+
 If you have the website + X Customers
 If you are the marketer + X Customers
 If you have the TV Mogul Mentor Card + X Customers
@@ -128,3 +147,7 @@ Otherwise: You mother sends a link to all of you aunts and uncles... Awe...
 
 ###Passing the 'Ship or' square
 If you opted to use your talent loose 10% of your customers.
+
+###User feedback group:
++X Custoemrs
+If you, one of your cofounders, or one of your mentors is a marketer get an additional +X customers
